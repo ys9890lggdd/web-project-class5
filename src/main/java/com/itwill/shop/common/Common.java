@@ -1,5 +1,7 @@
 package com.itwill.shop.common;
 
-public class Common {
+import javax.sql.DataSource;
 
+public class Common {
+	private DataSource dataSource;
 }
